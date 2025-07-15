@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+Flask==3.1.1
+Flask-CORS==6.0.1
+pandas==2.3.1
+plotly==6.2.0
+python-dateutil==2.9.0.post0
